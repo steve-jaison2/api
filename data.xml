@@ -1,4 +1,6 @@
-<country>
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <country>
       <element>India</element>
       <element>japan</element>
       <element>America</element>
@@ -33,3 +35,4 @@
       <element>73</element>
       <element>63</element>
    </value4>
+</root>
