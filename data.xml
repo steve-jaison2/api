@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <country>
+      <element>India</element>
+      <element>japan</element>
+      <element>America</element>
+      <element>Russia</element>
+      <element>Indonesia</element>
+   </country>
+   <Value>
+      <element>22</element>
+      <element>22</element>
+      <element>53</element>
+      <element>55</element>
+      <element>20</element>
+   </Value>
+   <Value2>
+      <element>27</element>
+      <element>72</element>
+      <element>34</element>
+      <element>85</element>
+      <element>90</element>
+   </Value2>
+   <value3>
+      <element>22</element>
+      <element>43</element>
+      <element>65</element>
+      <element>75</element>
+      <element>64</element>
+   </value3>
+    <value4>
+      <element>23</element>
+      <element>32</element>
+      <element>64</element>
+      <element>73</element>
+      <element>63</element>
+   </value4>
+</root>
